@@ -37,15 +37,17 @@ The landing page is built with a focus on clarity, motion, and professional aest
 - Adaptive colour balance and subtle animations  
 
 ---
-
 ## 🧰 Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) **React.js** | Core framework for building UI |
-| ![Tailwind](https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png) **Tailwind CSS** | Utility-first styling for consistent design |
-| ![Lucide](https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/star.svg) **Lucide React** | Icon library used across UI components |
-| ![Syntax Highlighter](https://raw.githubusercontent.com/react-syntax-highlighter/react-syntax-highlighter/main/logo.png) **React Syntax Highlighter** | Displays live code examples in Hero section |
-| ![Vite](https://raw.githubusercontent.com/vitejs/vite/main/logo.svg) **Vite** | Lightning-fast development build tool |
+### Frontend
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **React.js** — Core framework for building interactive UI components  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) **Tailwind CSS** — Utility-first styling for responsive and consistent design  
 
+### Icons & UI
+- ![Lucide](https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=white) **Lucide React** — Icon library used across UI components  
+- ![Syntax Highlighter](https://img.shields.io/badge/React_Syntax_Highlighter-FFCE00?style=for-the-badge&logo=react&logoColor=black) **React Syntax Highlighter** — Displays live code examples in Hero section  
 
+### Tools & Build
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) **Vite** — Lightning-fast development build tool  
+
+---
