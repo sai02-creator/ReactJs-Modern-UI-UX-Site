@@ -52,8 +52,6 @@ The landing page is built with a focus on clarity, motion, and professional aest
 
 ---
 
-
 ## 🌐 Live Demo
 
-Check out the live site: [React Modern UI/UX Site](https://react-js-modern-ui-ux-site.vercel.app/)
-
+[![Visit Live Site](https://img.shields.io/badge/Live%20Site-React%20UI%20UX-brightgreen?style=for-the-badge&logo=react)](https://react-js-modern-ui-ux-site.vercel.app/)
