@@ -1,21 +1,53 @@
-HEAD
-# React + Vite
+# 💻 CodeFlow AI — Professional Web Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, professional, and high-performance React website built with **Tailwind CSS** and **Lucide React**, featuring smooth animations, interactive code previews, and elegant UI inspired by **Deloitte’s design style**.
 
-Currently, two official plugins are available:
+This project showcases multiple sections including **Hero**, **Features**, **Pricing**, and **Testimonials**, designed for developers, SaaS startups, and tech portfolios.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Overview
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+**CodeFlow AI** helps developers and teams accelerate their coding workflow.  
+The landing page is built with a focus on clarity, motion, and professional aesthetics. It combines minimal gradients, soft blurs, and elegant typefaces to achieve a premium, enterprise-grade design.
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## ✨ Key Sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project
-# ReactJs-Modern-UI-Ux-S
- c5bb3fb96f7a818683e0aa25a6d89a4bb27f2c22
+### 🧠 Hero Section
+- Eye-catching animated background following the mouse position  
+- Interactive code window powered by `react-syntax-highlighter`  
+- Floating feature cards showcasing AI-based tools  
+- Two call-to-action buttons — *Start Coding Free* and *Watch Demo*  
+
+### ⚙️ Features Page
+- Clean grid layout for core features  
+- Modern gradient highlights and hover transitions  
+- Consistent spacing, typography, and contrast for professional readability  
+
+### 💸 Pricing Page
+- Three pricing tiers: **Starter**, **Professional**, and **Enterprise**  
+- Gradient highlights and “Most Popular” badge  
+- Fully responsive and consistent with the Hero theme  
+
+### 💬 Testimonials Section
+- Elegant testimonial cards with names, roles, and user feedback  
+- Designed for credibility and trust-building  
+- Adaptive colour balance and subtle animations  
+
+---
+
+## 🧰 Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **React.js** | Core framework for building UI |
+| **Tailwind CSS** | Utility-first styling for consistent design |
+| **Lucide React** | Icon library used across UI components |
+| **React Syntax Highlighter** | Displays live code examples in Hero section |
+| **Vite** | Lightning-fast development build tool |
+
+---
+
+
