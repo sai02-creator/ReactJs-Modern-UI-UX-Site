@@ -41,13 +41,11 @@ The landing page is built with a focus on clarity, motion, and professional aest
 ## 🧰 Tech Stack
 
 | Technology | Purpose |
-|-------------|----------|
-| **React.js** | Core framework for building UI |
-| **Tailwind CSS** | Utility-first styling for consistent design |
-| **Lucide React** | Icon library used across UI components |
-| **React Syntax Highlighter** | Displays live code examples in Hero section |
-| **Vite** | Lightning-fast development build tool |
-
----
+|------------|---------|
+| ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) **React.js** | Core framework for building UI |
+| ![Tailwind](https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png) **Tailwind CSS** | Utility-first styling for consistent design |
+| ![Lucide](https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/star.svg) **Lucide React** | Icon library used across UI components |
+| ![Syntax Highlighter](https://raw.githubusercontent.com/react-syntax-highlighter/react-syntax-highlighter/main/logo.png) **React Syntax Highlighter** | Displays live code examples in Hero section |
+| ![Vite](https://raw.githubusercontent.com/vitejs/vite/main/logo.svg) **Vite** | Lightning-fast development build tool |
 
 
