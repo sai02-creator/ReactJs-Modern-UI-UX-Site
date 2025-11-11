@@ -1,6 +1,6 @@
-# 💻 CodeFlow AI — Professional Web Experience
+# Modern UI/UX React Website
 
-A modern, professional, and high-performance React website built with **Tailwind CSS** and **Lucide React**, featuring smooth animations, interactive code previews, and elegant UI inspired by **Deloitte’s design style**.
+A **professional and high-performance React website** built with **Tailwind CSS** and **Lucide React**, featuring smooth animations, interactive components, and elegant design for a modern web experience.
 
 This project showcases multiple sections including **Hero**, **Features**, **Pricing**, and **Testimonials**, designed for developers, SaaS startups, and tech portfolios.
 
