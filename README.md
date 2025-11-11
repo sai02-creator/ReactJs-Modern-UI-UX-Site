@@ -52,6 +52,22 @@ The landing page is built with a focus on clarity, motion, and professional aest
 
 ---
 
+## 🖼 Screenshots
+
+### Hero Section
+![Hero Section](src/assets/hero.png)
+
+### Features Section
+![Features Section](src/assets/features.png)
+
+### Pricing Section
+![Pricing Section](src/assets/pricing.png)
+
+### Testimonials Section
+![Testimonials Section](src/assets/testimonials.png)
+
+---
+
 ## 🌐 Live Demo
 
 [![Visit Live Site](https://img.shields.io/badge/Live%20Site-React%20UI%20UX-brightgreen?style=for-the-badge&logo=react)](https://react-js-modern-ui-ux-site.vercel.app/)
